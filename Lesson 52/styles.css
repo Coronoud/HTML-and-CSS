@@ -1,0 +1,30 @@
+#blue {
+    border: 3px solid blue;
+    width: 300px;
+    height: 200px;
+}
+
+#red {
+    border-width: 3px;
+    border-style: dotted;
+    border-color: red;
+    width: 300px;
+    height: 200px;
+}
+
+#yellow {
+    border-width: 3px;
+    border-style: dashed;
+    border-color: yellow;
+    width: 300px;
+    height: 200px;
+}
+
+#thic {
+    border-width: 5px;
+    border-style: double;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
+}
+

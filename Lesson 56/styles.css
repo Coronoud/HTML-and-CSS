@@ -1,0 +1,22 @@
+#geometry {
+    border: 1px solid green;
+    border-radius: 10px 20px 60px 80px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+#rectan {
+    border: 1px solid green;
+    border-radius: 10px 50px;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+
+#square {
+    border: 1px solid green;
+    border-radius: 10px 40px 20px;
+    width: 300px;
+    height: 300px;
+}

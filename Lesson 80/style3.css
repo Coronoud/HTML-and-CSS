@@ -1,0 +1,35 @@
+#parent {
+    width: 100px;
+    height: 300px;
+    border: 1px solid black;
+    position: relative;
+    margin: 50px auto;
+}
+
+#child1, #child2, #child3 {
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+#child1 {
+    background: red;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+#child2 {
+    background: yellow;
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
+
+#child3 {
+    background: green;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}

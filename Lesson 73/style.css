@@ -1,0 +1,27 @@
+.frame {
+    border: 1px solid red;
+    margin: auto;
+    width: 1000px;
+    height: 645px;
+}
+
+.header {
+    margin: 10px auto;
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+}
+
+.body {
+    margin: 10px auto;
+    border: 1px solid green;
+    width: 300px;
+    height: 200px;
+}
+
+.footer {
+    margin: 10px auto;
+    border: 1px solid green;
+    width: 400px;
+    height: 200px;
+}

@@ -1,0 +1,10 @@
+h1 {
+    display: inline;
+}
+
+a {
+    display: block;
+    border: 1px solid black;
+    width: 100px;
+    height: 15px;
+}

@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+	padding: 0;
+}
+
+h1, h3 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.center1 {
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.mrgn {
+    margin-top: 40px;
+}
+
+p, li {
+    margin: 0 500px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#header {
+    background-color: green;
+    color: white;
+}
+
+#contacts {
+    color: white;
+    background: darkred;
+}
+
+.footer {
+    color: white;
+    background: sandybrown;
+    height: 100px;
+}
+
+.text {
+    text-align: center;
+}
+
+#foot {
+    text-align: center;
+    padding-top: 75px;
+}

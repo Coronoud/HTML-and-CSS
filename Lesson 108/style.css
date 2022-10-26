@@ -1,0 +1,20 @@
+#menu a {
+    border: 1px solid mediumseagreen;
+    background-color: mediumseagreen;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+#menu a:hover, #menu a.active {
+    border: 1px solid mediumseagreen;
+    background-color: white;
+    color: mediumseagreen;
+}
